@@ -1,5 +1,5 @@
 ---
-{"title":"I livelli neuro-logici del pensiero","embedded-title":true,"date":"2022-03-04","url":"https://gabrielepagnini.com/lessons/i-livelli-neuro-logici-di-pensiero/","dg-home":true,"dg-publish":true,"cssclass":null,"tags":["Ingegneria-del-Pensiero","Gabriele-Pagnini","gardenEntry"],"aliases":["livelli neuro-logici","neuro-logico"],"permalink":"/005-notes/001-permanent-notes/i-livelli-neuro-logici-del-pensiero/"}
+{"title":"I livelli neuro-logici del pensiero","embedded-title":true,"date":"2022-03-04","url":"https://gabrielepagnini.com/lessons/i-livelli-neuro-logici-di-pensiero/","dg-home":false,"dg-publish":true,"cssclass":null,"tags":["Ingegneria-del-Pensiero","Gabriele-Pagnini"],"aliases":["livelli neuro-logici","neuro-logico"],"permalink":"/005-notes/001-permanent-notes/i-livelli-neuro-logici-del-pensiero/"}
 ---
 Status:: #State/Develop
 
